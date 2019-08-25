@@ -31,6 +31,7 @@ If you search for support, please open a thread on the [image.sc](https://image.
   * [ImageJ1](https://github.com/clij/clij-legacy/) (experimental)
   * [Matlab](https://clij.github.io/clatlab/) (experimental)
   * [MicroManager 2.0](https://clij.github.io/clij-docs/installationInMicroManager) (experimental)
+  * [Python](https://clij.github.io/clijpy/) (experimental)
 * Introduction to CLIJ programming
   * [CLIJ for ImageJ Macro programmers](https://clij.github.io/clij-docs/macro_intro)
   * [CLIJ for Java programmers](https://clij.github.io/clij-docs/api_intro)
