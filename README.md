@@ -13,7 +13,7 @@ CLIJ is based on
 Robert Haase, Loic Alain Royer, Peter Steinbach, Deborah Schmidt, 
 Alexandr Dibrov, Uwe Schmidt, Martin Weigert, Nicola Maghelli, Pavel Tomancak, 
 Florian Jug, Eugene W Myers. 
-*CLIJ: Enabling GPU-accelerated image processing in Fiji*. BioRxiv preprint. [https://doi.org/10.1101/660704](https://doi.org/10.1101/660704)
+*CLIJ: GPU-accelerated image processing for everyone*. BioRxiv preprint. [https://doi.org/10.1101/660704](https://doi.org/10.1101/660704)
 
 If you search for support, please open a thread on the [image.sc](https://image.sc) forum.
 
@@ -43,6 +43,7 @@ If you search for support, please open a thread on the [image.sc](https://image.
   * [Release cycle](https://clij.github.io/clij-docs/release_cycle)
 * Application programming interface (API)
   * [ImageJ Macro](https://clij.github.io/clij-docs/reference)
+  * [ImageJ Macro cheat sheet](https://github.com/clij/clij-docs/blob/master/clij_cheatsheet.pdf)
   * [Jython](https://clij.github.io/clij-docs/referenceJython)
   * [Java](https://clij.github.io/clij-docs/referenceJava)
   * [Groovy](https://clij.github.io/clij-docs/referenceGroovy)
