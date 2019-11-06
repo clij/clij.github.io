@@ -3,37 +3,26 @@ Information in accordance with section 5 TMG
 
 ## Contact
 
-Robert Haase
+Robert Haase<br>
+Max Planck Institute of Molecular Cell Biology and Genetics<br>
+Pfotenhauerstr. 108<br>
+01307 Dresden<br>
+Germany<br>
 
-Max Planck Institute of Molecular Cell Biology and Genetics
-
-Pfotenhauerstr. 108
-
-01307 Dresden
-
-Germany
-
-
-Email: rhaase at mpi minus cbg dot de
-
-Website: https://myerslabd.mpi-cbg.de/robert-haase
+Email: rhaase at mpi minus cbg dot de<br>
+Website: https://myerslabd.mpi-cbg.de/robert-haase<br>
 
 ## Provider
 The provider of this Internet site within the legal meaning of the term is the registered association Max Planck Society for the Advancement of Science e.V.
 
-Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.
+Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.<br>
+Hofgartenstrasse 8<br>
+80539 Munich<br>
+Germany<br>
 
-Hofgartenstrasse 8
-
-80539 Munich
-
-Germany
-
-Phone: +49 89 2108-0
-
-Internet: www.mpg.de
-
-Email pressegv.mpg.de
+Phone: +49 89 2108-0<br>
+Internet: www.mpg.de<br>
+Email pressegv.mpg.de<br>
 
 # Register of Societies and Associations
 The Max Planck Society is registered in the Official Register of Societies and Associations at Berlin-Charlottenburg Local Court under the register number VR 13378 B.
