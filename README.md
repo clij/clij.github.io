@@ -55,6 +55,7 @@ If you search for support, please open a thread on the [image.sc](https://image.
   * [ImageJ Ops in Java](https://github.com/clij/clij-ops/tree/master/src/test/java/net/haesleinhuepf/clij/ops/examples)
   * [ImageJ Ops in Jython](https://github.com/clij/clij-ops/tree/master/src/test/resources/jython)
 * Slides
+  * [MTZ Image Processing Seminar: How to use CLIJ to accelerate your science](https://git.mpi-cbg.de/rhaase/clij_mtz_2020)
   * [Quantitative BioImaging Conference 2020](slides/2020-01-QBI_SmartMicroscopy_Haase_V2.pdf)
 * Benchmarking
   * [Benchmarking CLIJ operations versus ImageJ/Fiji operations using JMH](https://clij.github.io/clij-benchmarking/benchmarking_operations_jmh)
