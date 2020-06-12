@@ -1,7 +1,7 @@
-title: CLIJ
-logo: /images/clij_logo.png
-description: CLIJ - GPU-accelerated image processing for everyone
-show_downloads: false
+title: CLIJ2
+logo: /images/clij2_logo.png
+description: CLIJ2
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 plugins:
