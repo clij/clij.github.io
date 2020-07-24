@@ -17,7 +17,10 @@ You can fine-tune parameters of your workflow while inspecting different z-plane
 
 
 * Denoising and background subtraction
-* Drift correction
+* [Drift correction](https://clij.github.io/clincubator/drift_correction)
+* Intensity correction
+
+
 * [Maximum projection](https://clij.github.io/clincubator/maximum_projection)
 * Cylinder projection
 * Sphere projection
