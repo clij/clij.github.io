@@ -21,5 +21,19 @@ After you finished designing your image analysis workflow, you can export an Ima
 <iframe src="images/clincubator_generate_macro.mp4" width="540" height="260"></iframe>
 [Download video](images/clincubator_generate_macro.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
+## Overview
+* [Installation](https://clij.github.io/clincubator/installation)
+* Getting started 
+
+
+* Denoising and background subtraction
+* Drift correction
+* Make isotropic and rigid transforms
+* Cylinder projection
+* Sphere projection
+* Spot detection
+* Cell segmentation
+* Cel neighbor analysis
+
 
 
