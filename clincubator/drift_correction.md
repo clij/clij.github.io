@@ -8,7 +8,7 @@ so that it stays in place. You can configure where the average position is suppo
 Drift correction by centroid fixation has another parameter: Enter an intensity value about background intensity to
 allow the plugin differentiating background and the object to drift-correct in the foreground.
 
-## How to apply an configure drift correction
+## How to apply configure drift correction
 Open your time lapse data set. [Start the CLIncubator](https://clij.github.io/clincubator/getting_started) and follow these steps:
 
 * Your dataset
