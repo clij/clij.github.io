@@ -14,3 +14,5 @@
 * Restart Fiji
 
 Installation was successful if you find the CLIncubator starting point button in Fijis tool bar:
+
+Back to [CLIncubator](https://clij.github.io/clincubator)

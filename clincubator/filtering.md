@@ -11,3 +11,4 @@ CLIncubator comes with filters for
   * Difference of Gaussian (DoG)
   * Laplacien of Gaussian (LoG)
 
+Back to [CLIncubator](https://clij.github.io/clincubator)

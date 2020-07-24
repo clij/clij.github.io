@@ -19,3 +19,5 @@ Open your time lapse data set. [Start the CLIncubator](https://clij.github.io/cl
 
 <iframe src="images/clincubator__working_principle.mp4" width="540" height="260"></iframe>
 [Download video](images/clincubator__working_principle.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
+
+Back to [CLIncubator](https://clij.github.io/clincubator)
