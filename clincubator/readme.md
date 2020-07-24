@@ -3,10 +3,6 @@ CLIncubator is an intuitive user interface for building custom GPU-accelerated i
 
 ![Image](images/suggestions.png)
 
-## Building workflows - step by step
-CLIncubator has a built-in suggestion system analysing common CLIJ workflows to make suggestions of what to do next. 
-<iframe src="images/clincubator__working_principle.mp4" width="540" height="260"></iframe>
-[Download video](images/clincubator__working_principle.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 ## Instant feedback
 You can fine-tune parameters of your workflow while inspecting different z-planes or time points of your data set and see results instantly.
@@ -28,7 +24,7 @@ After you finished designing your image analysis workflow, you can export an Ima
 
 * Denoising and background subtraction
 * Drift correction
-* Make isotropic and rigid transforms
+* Maximum projection
 * Cylinder projection
 * Sphere projection
 * Spot detection
