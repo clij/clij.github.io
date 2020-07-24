@@ -6,7 +6,7 @@
 
 ## Instant feedback
 You can fine tune parameters of your workflow while inspecting different z-planes or time points of your data set and see results instantly.
-<iframe src="images/clincubator_segmentation_intro.mp4" width="500" height="1000"></iframe>
+<iframe src="images/clincubator_segmentation_intro.mp4" width="500" height="800"></iframe>
 [Download video](images/clincubator_segmentation_intro.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 
