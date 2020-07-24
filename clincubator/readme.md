@@ -11,25 +11,21 @@ You can fine-tune parameters of your workflow while inspecting different z-plane
 
 
 
-## Exporting workflows as ImageJ Macro
-After you finished designing your image analysis workflow, you can export an ImageJ macro and apply it to image sequences systematically.
-
-<iframe src="images/clincubator_generate_macro.mp4" width="540" height="260"></iframe>
-[Download video](images/clincubator_generate_macro.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
-
 ## Overview
 * [Installation](https://clij.github.io/clincubator/installation)
-* Getting started 
+* [Getting started](https://clij.github.io/clincubator/getting_started)
 
 
 * Denoising and background subtraction
 * Drift correction
-* Maximum projection
+* [Maximum projection](https://clij.github.io/clincubator/maximum_projection)
 * Cylinder projection
 * Sphere projection
 * Spot detection
 * Cell segmentation
 * Cel neighbor analysis
+
+* [Export workflows as ImageJ Macro](https://clij.github.io/clincubator/macro_export)
 
 
 
