@@ -17,8 +17,9 @@ Open your time lapse data set. [Start the CLIncubator](https://clij.github.io/cl
     * Drift correction by centroid fixation
       * Maximum Z Projection
 
-Align the resulting windows from the left to the right on your screen. Go through time and see if the drift 
-correction works:
+Align the resulting windows from the left to the right on your screen. 
+Configure the desired center position.
+Go through time and see if the drift correction works:
 
 <iframe src="images/clincubator_drift_correction.mp4" width="540" height="260"></iframe>
 [Download video](images/clincubator_drift_correction.mp4) 

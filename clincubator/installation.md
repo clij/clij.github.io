@@ -1,4 +1,4 @@
-## CLIncubator installation instructions
+# CLIncubator installation instructions
 * Download and unpack [Fiji](https://fiji.sc)
 * Start Fiji and run its update using the menu `Help > Update`
 

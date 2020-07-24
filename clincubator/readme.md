@@ -6,8 +6,8 @@ CLIncubator is an intuitive user interface for building custom GPU-accelerated i
 
 ## Instant feedback
 You can fine-tune parameters of your workflow while inspecting different z-planes or time points of your data set and see results instantly.
-<iframe src="images/clincubator_instand_feedback.mp4" width="540" height="260"></iframe>
-[Download video](images/clincubator_instand_feedback.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
+<iframe src="images/??clincubator_instand_feedback.mp4" width="540" height="260"></iframe>
+[Download video](images/??clincubator_instand_feedback.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 
 
@@ -21,9 +21,9 @@ You can fine-tune parameters of your workflow while inspecting different z-plane
 * Intensity correction
 
 
-* [Maximum projection](https://clij.github.io/clincubator/maximum_projection)
-* Cylinder projection
-* Sphere projection
+* [Maximum projection](https://clij.github.io/clincubator/intensity_projection)
+* [Cylinder projection](https://clij.github.io/clincubator/cylinder_projection)
+* [Sphere projection](https://clij.github.io/clincubator/sphere_projection)
 * Spot detection
 * Cell segmentation
 * Cel neighbor analysis
