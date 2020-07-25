@@ -14,9 +14,9 @@ You can fine tune parameters of your workflow while inspecting different z-plane
 ## Overview
 * [Installation](https://clij.github.io/clincubator/installation)
 * [Getting started](https://clij.github.io/clincubator/getting_started)
+* [Complete reference](https://clij.github.io/clincubator/reference)
 
-
-* Denoising and background subtraction
+* [Image filtering](https://clij.github.io/clincubator/filtering)
 * [Drift correction](https://clij.github.io/clincubator/drift_correction)
 * Intensity correction
 

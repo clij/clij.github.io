@@ -15,4 +15,6 @@
 
 Installation was successful if you find the CLIncubator starting point button in Fijis tool bar:
 
+![Image](images/installation_ok.png)
+
 Back to [CLIncubator](https://clij.github.io/clincubator)
