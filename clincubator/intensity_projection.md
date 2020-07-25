@@ -9,13 +9,22 @@ CLIncubator has these intensity projections in Z available:
 
 You can increase contrast in visualisation of your sample by executing [background subtraction](https://clij.github.io/clincubator/filtering) in advance.
 
-## How to apply an configure drift correction
+## How to do intensity projections
 Open your time lapse data set. [Start the CLIncubator](https://clij.github.io/clincubator/getting_started) and follow these steps:
 
 * Your dataset
   * CLIncubator Starting point
     * Background subtraction
       * Maximum Z Projection
+
+Furthermore, if you want to project in different directions, conider these methods:
+* Reslice Left
+* Reslice Right
+* Reslice Top
+* Reslice Bottom
+* Transpose XY
+* Transpose XZ
+* Transpose YZ
 
 <iframe src="images/clincubator__working_principle.mp4" width="540" height="260"></iframe>
 [Download video](images/clincubator__working_principle.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]

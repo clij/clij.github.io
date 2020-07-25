@@ -67,6 +67,7 @@ Please note: CLIncubator is under development. Hence, this list is subject to ch
 * [Non Local Means](https://clij.github.io/clij2-docs/reference_nonLocalMeans)
 * [Not Equal Constant](https://clij.github.io/clij2-docs/reference_notEqualConstant)
 * [Opening Box](https://clij.github.io/clij2-docs/reference_openingBox)
+* [Parametric Watershed](https://clij.github.io/clij2-docs/reference_parametricWatershed)
 * [Power](https://clij.github.io/clij2-docs/reference_power)
 * [Reslice Bottom](https://clij.github.io/clij2-docs/reference_resliceBottom)
 * [Reslice Left](https://clij.github.io/clij2-docs/reference_resliceLeft)
@@ -112,7 +113,7 @@ Please note: CLIncubator is under development. Hence, this list is subject to ch
 * [Voronoi Octagon](https://clij.github.io/clij2-docs/reference_voronoiOctagon)
 
 
-107 operations listed.
+108 operations listed.
 
 
 Back to [CLIncubator](https://clij.github.io/clincubator)

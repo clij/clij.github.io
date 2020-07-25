@@ -10,7 +10,7 @@
 ![Image](images/installation.png)
 
 * Click on "Close"
-* Click on "Apply Chanes"
+* Click on "Apply Changes"
 * Restart Fiji
 
 Installation was successful if you find the CLIncubator starting point button in Fijis tool bar:
@@ -30,14 +30,14 @@ large memory. For typical scenarios it is recommended to buy GPUs with at least 
  look out for memory bandwidth: typical GDDR4-based GPUs have a memory bandwidth > 400 GB/s. 
  Quite some GDDR5 GPUs for example offer < 100 GB/s. 
  Thus, GDDR6-based GPUs may compute image processing results about 5 times faster!
-* **Integrated GPUs**: If you desire processing images in long workflows, it might make sense to use integrated GPYs with access to huge amounts of DDR4-memory. 
+* **Integrated GPUs**: If you desire processing images in long workflows, it might make sense to use integrated GPUs with access to huge amounts of DDR4-memory. 
 They are more affordable.
 
 You can check the capabilities of your graphics processing units by selecting a device using the menu `Plugins > ImageJ on GPU (CLIJx) > Change default CL device```
 
 ![Image](images/default_cl_device.png)
 
-The menu `Plugins > ImageJ on GPU (CLIJx) > Memory Display` allows you to overview availabl memory and memory consumption while building your workflow.
+The menu `Plugins > ImageJ on GPU (CLIJx) > Memory Display` allows you to overview available memory and memory consumption while building your workflow.
 
 ![Image](images/memory_display.png)
 
