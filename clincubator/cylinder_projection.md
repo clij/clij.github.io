@@ -17,7 +17,7 @@ Open your time lapse data set. [Start the CLIncubator](https://clij.github.io/cl
           * Cylinder transform
             * Maximum Z projection
 
-<iframe src="images/clincubator_rigid_cylinder_max.mp4" width="540" height="260"></iframe>
+<iframe src="images/clincubator_rigid_cylinder_max.mp4" width="540" height="540"></iframe>
 [Download video](images/clincubator_rigid_cylinder_max.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 ## Half-cylinder projection
