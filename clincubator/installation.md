@@ -17,6 +17,9 @@ Installation was successful if you find the CLIncubator starting point button in
 
 ![Image](images/installation_ok.png)
 
+In case of any issues, please refer to the more detailed [installation instructions of CLIJ2](https://clij.github.io/clij2-docs/installationInFiji) and
+the [trouble shooting](https://clij.github.io/clij2-docs/troubleshooting) section.
+
 ## Hardware requirements
 CLIncubator uses modern graphics cards to ensure real-time image processing experience. 
 Therefore it is recommended to utilize state-of-the art graphics computing units (GPUs). 
