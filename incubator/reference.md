@@ -1,7 +1,7 @@
-## CLIncubator operations
+## CLIIJx-ncubator operations
 This is the list of currently supported [CLIJ2](https://clij.github.io/) and [CLIJx](https://clij.github.io/clijx) operations.
 
-Please note: CLIncubator is under development. Hence, this list is subject to change.
+Please note: CLIJx-Incubator is under development. Hence, this list is subject to change.
 
 * [Absolute](https://clij.github.io/clij2-docs/reference_absolute)
 * [Average Neighbor Distance Map](https://clij.github.io/clij2-docs/reference_averageNeighborDistanceMap)
