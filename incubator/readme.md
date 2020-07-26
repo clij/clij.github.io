@@ -34,5 +34,10 @@ You can fine tune parameters of your workflow while inspecting different z-plane
 
 * [Export workflows as ImageJ Macro](https://clij.github.io/incubator/macro_export)
 
+## Wish list and known issues
+* Add support for multi-channel data
+* Add menu entry for "Apply to all time points"
+
+
 
 
