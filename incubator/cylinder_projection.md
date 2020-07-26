@@ -17,8 +17,8 @@ Open your time lapse data set. [Start the CLIJx-Incubator](https://clij.github.i
           * Cylinder transform
             * Maximum Z projection
 
-<iframe src="images/clijxincubator_rigid_cylinder_max.mp4" width="540" height="540"></iframe>
-[Download video](images/clijxincubator_rigid_cylinder_max.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
+<iframe src="images/incubator_rigid_cylinder_max.mp4" width="540" height="540"></iframe>
+[Download video](images/incubator_rigid_cylinder_max.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 ## Half-cylinder projection
 If just half of a sample was imaged, you may want to apply a half-cylinder projection. 
