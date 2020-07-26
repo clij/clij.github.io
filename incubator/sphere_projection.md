@@ -1,0 +1,27 @@
+# Sphere projection
+Similar to the [Cylinder projection](https://clij.github.io/incubator/cylinder_projection) 
+we can use a sphere projection to project intensities from a spherical sample into a 2D image. 
+
+![Image](images/sphere_projection.png)
+
+## How to use a sphere projection on your data
+When applying sphere projections to image stacks, a rigid dransform in advance is helpful to have control of the position and tilt of your sample in projected space.
+
+Open your time lapse data set. [Start the CLIJx-Incubator](https://clij.github.io/incubator/getting_started) and follow these steps:
+
+* Your dataset
+  * CLIJx-Incubator Starting point
+    * [Optional: Noise removal and Background subtraction]
+      * Make Isotropic
+        * Rigid transform
+          * Sphere transform
+            * Maximum Z projection
+
+After assembling your workflow, put the last three operations next to each other, change the parameters of the 
+rigid transform and inspect the results in the maximum Z projection.
+
+<iframe src="images/incubator_rigid_sphere_projection.mp4" width="540" height="540"></iframe>
+[Download video](images/incubator_rigid_sphere_projection.mp4) 
+[Image data source: Irene Seijo Barandiaran, Grapin-Botton lab, MPI CBG]
+
+Back to [CLIJx-Incubator](https://clij.github.io/incubator)
