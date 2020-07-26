@@ -38,6 +38,7 @@ You can fine tune parameters of your workflow while inspecting different z-plane
 * Add support for multi-channel data
 * Add menu entry for "Apply to all time points"
 
+Also have an idea for improving CLIJx-Incubator? Let me know! I'm eager to receiving feedback: rhaase at mpi minus cbg dot de
 
 
 
