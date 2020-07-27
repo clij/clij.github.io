@@ -28,7 +28,8 @@ rigid transform and inspect the results in the maximum Z projection.
 In case of datasets which are more similar to a half-sphere, e.g. a Tribolium castaneum embryo imaged from anterior to posterior, 
 it may make sense to draw a half-sphere projection.
 
-![Image](images/Tribolium_Dunkirk_stack.gif =260x) ![Image](images/Tribolium_Dunkirk_stack_MAX_Project.gif =260x)
+![Image](images/Tribolium_Dunkirk_stack.gif) 
+![Image](images/Tribolium_Dunkirk_stack_MAX_Project.gif)
 Stack view and corresponding maximum Z projection [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 This can be achieved by moving the center of the transform to the front (0) or back (1) of the image stack.
