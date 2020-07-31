@@ -29,7 +29,7 @@ Windows users may have to install graphics cards drivers downloaded from the ven
 
 <a name="macos"></a>
 ## MacOS specific installation
-When using an AMD graphics card in recent Macs, you may want to turn of the option "Automatic graphics switching" under System Preferences / Energy Saver. Thanks for [Tanner Fadero for finding this out](
+When using an AMD graphics card in recent Macs, you may want to turn **OFF** the option "Automatic graphics switching" under System Preferences / Energy Saver. Thanks for [Tanner Fadero for finding this out](
 https://forum.image.sc/t/ijm-macro-crashes-after-a-few-loops/40130/17).
 
 <a name="linux"></a>
