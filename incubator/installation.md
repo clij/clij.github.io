@@ -23,6 +23,19 @@ Installation was successful if you find the CLIJx-Incubator starting point butto
 In case of any issues, please refer to the more detailed [installation instructions of CLIJ2](https://clij.github.io/clij2-docs/installationInFiji) and
 the [trouble shooting](https://clij.github.io/clij2-docs/troubleshooting) section.
 
+<a name="windows"></a>
+## Windows specific installation
+Windows users may have to install graphics cards drivers downloaded from the vendors website ([AMD](https://www.amd.com/en/support), [NVidia](https://www.nvidia.com/Download/index.aspx)). The driver delivered by Windows Update is not sufficient.
+
+<a name="macos"></a>
+## MacOS specific installation
+When using an AMD graphics card in recent Macs, you may want to turn of the option "Automatic graphics switching" under System Preferences / Energy Saver. Thanks for [Tanner Fadero for finding this out](
+https://forum.image.sc/t/ijm-macro-crashes-after-a-few-loops/40130/17).
+
+<a name="linux"></a>
+## Linux specific installation
+Also under linux, installation of drivers from the vendors website is necessary ([AMD](https://www.amd.com/en/support), [NVidia](https://www.nvidia.com/Download/index.aspx)). Furthermore, when working with Intel graphics, it might be necessary to install packages such as "ocl-icd-devel" to make Fiji / CLIJ discover the right GPU devices.
+
 <a name="hardware"></a>
 ## Hardware requirements
 CLIJx-Incubator uses modern graphics cards to ensure real-time image processing experience. 
