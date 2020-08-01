@@ -25,6 +25,7 @@ You can fine tune parameters of your workflow while inspecting different z-plane
 
 
 * [Maximum projection](https://clij.github.io/incubator/intensity_projection)
+* [Multi-channel image visualisation](https://clij.github.io/incubator/multi_channel_support)
 * [Cylinder projection](https://clij.github.io/incubator/cylinder_projection)
 * [Sphere projection](https://clij.github.io/incubator/sphere_projection)
 * Spot detection
