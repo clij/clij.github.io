@@ -32,10 +32,14 @@ You can fine tune parameters of your workflow while inspecting different z-plane
   * [Nuclei segmentation](https://clij.github.io/incubator/segmentation_nuclei)
 * Cel neighbor analysis
 
-* [Export workflows as ImageJ Macro](https://clij.github.io/incubator/macro_export)
+* [Export workflows as ImageJ Script](https://clij.github.io/incubator/macro_export)
+
+* Extensibility
+  * [CLIJ2 Plugin template](https://github.com/clij/clij2-plugin-template)
+  * [CLIJ2 imgib2 example plugin](https://github.com/haesleinhuepf/clijx-incubator-imglib2)
+  * [CLIJ2 ImageJ exmaple plugin](https://github.com/haesleinhuepf/clijx-incubator-imagej1)
 
 ## Wish list and known issues
-* Add support for multi-channel data
 * Add menu entry for "Apply to all time points"
 * If a plugin has three parameters, e.g. "sigma_x", "sigma_y" and "sigma_z", allow to change these three together with one click.
 * Make dialogs use physical units in general or switchable between pixel units and physical units.
