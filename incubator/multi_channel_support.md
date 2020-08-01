@@ -10,8 +10,9 @@ Open your data set. [Start the CLIJx-Incubator](https://clij.github.io/incubator
 
 * Your dataset
   * CLIJx-Incubator Starting point
-    * Rigid Transform
-      * Maximum Z Projection
+    * Make isotropic
+      * Rigid Transform
+        * Maximum Z Projection
       
 <iframe src="images/incbator_multichannel.mp4" width="450" height="275"></iframe>
 [Download video](images/incbator_multichannel.mp4) [Image data source: Johannes Girstmair, Tomancak lab, MPI CBG]
