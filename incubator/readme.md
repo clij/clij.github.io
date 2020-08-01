@@ -31,7 +31,8 @@ You can fine tune parameters of your workflow while inspecting different z-plane
 * Spot detection
 * Cell segmentation
   * [Nuclei segmentation](https://clij.github.io/incubator/segmentation_nuclei)
-* Cel neighbor analysis
+  * [Cell segmentation based on membranes](https://clij.github.io/incubator/segmentation_cells)
+* Cell neighbor analysis
 
 * [Export workflows as ImageJ Script](https://clij.github.io/incubator/macro_export)
 

@@ -5,7 +5,7 @@ Real-time experience while configuring a workflow for nuclei segmentation can be
 such as filtering, thresholding and watershed techniques. 
 It is recommended to utilize modern [GDDR6-based GPU hardware](https://clij.github.io/incubator/installation#hardware) for 3D segmentation.
 
-## How to 3D cell nuclei segmentation
+## How to do 3D cell nuclei segmentation
 Open your data set. [Start the CLIJx-Incubator](https://clij.github.io/incubator/getting_started) and follow such a workflows:
 
 * Your dataset
