@@ -16,3 +16,6 @@ Open your data set. [Start the CLIJx-Incubator](https://clij.github.io/incubator
       
 <iframe src="images/incbator_multichannel.mp4" width="450" height="275"></iframe>
 [Download video](images/incbator_multichannel.mp4) [Image data source: Johannes Girstmair, Tomancak lab, MPI CBG]
+
+
+Back to [CLIJx-Incubator](https://clij.github.io/incubator)

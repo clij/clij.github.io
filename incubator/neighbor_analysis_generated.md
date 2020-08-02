@@ -98,4 +98,4 @@ Takes a label map, determines which labels touch and replaces every label with t
 26 operations listed.
 
 
-Back to [CLIncubator](https://clij.github.io/incubator)
+Back to [CLIJx-Incubator](https://clij.github.io/incubator)

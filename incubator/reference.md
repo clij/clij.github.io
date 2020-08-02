@@ -437,4 +437,4 @@ Takes a binary image and dilates the regions using a octagon shape until they to
 130 operations listed.
 
 
-Back to [CLIncubator](https://clij.github.io/incubator)
+Back to [CLIJx-Incubator](https://clij.github.io/incubator)
