@@ -7,13 +7,6 @@ Do not use it for routine research yet. Planned release is early 2021. Stay tune
 ![Image](images/suggestions.png)
 
 
-## Instant feedback
-You can fine tune parameters of your workflow while inspecting different z-planes or time points of your data set and see results instantly.
-<iframe src="images/incubator_segmentation_intro.mp4" width="500" height="800"></iframe>
-[Download video](images/incubator_segmentation_intro.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
-
-
-
 ## Overview
 * [Installation](https://clij.github.io/incubator/installation)
 * [Getting started](https://clij.github.io/incubator/getting_started)
@@ -39,6 +32,15 @@ You can fine tune parameters of your workflow while inspecting different z-plane
   * [CLIJ2 Plugin template](https://github.com/clij/clij2-plugin-template)
   * [CLIJ2 imgib2 example plugin](https://github.com/haesleinhuepf/clijx-incubator-imglib2)
   * [CLIJ2 ImageJ exmaple plugin](https://github.com/haesleinhuepf/clijx-incubator-imagej1)
+
+
+## Instant feedback
+You can fine tune parameters of your workflow while inspecting different z-planes or time points of your data set and see results instantly.
+<iframe src="images/incubator_segmentation_intro.mp4" width="500" height="800"></iframe>
+[Download video](images/incubator_segmentation_intro.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
+
+
+
 
 ## Wish list and known issues
 * Add menu entry for "Apply to all time points"
