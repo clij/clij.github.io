@@ -1,4 +1,8 @@
 ## Neighbor analysis
+
+todo... :-)
+
+![Image](images/neighbor_analysis.png)
 * [Average Distance Of N Closest Neighbors Map](https://clij.github.io/clij2-docs/reference_averageDistanceOfNClosestNeighborsMap)
 Takes a label map, determines distances between all centroids and replaces every label with the average distance to the n closest neighboring labels.
 
