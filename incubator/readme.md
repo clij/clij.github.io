@@ -30,8 +30,9 @@ Do not use it for routine research yet. Planned release is early 2021. Stay tune
 
 * Extensibility
   * [CLIJ2 Plugin template](https://github.com/clij/clij2-plugin-template)
-  * [CLIJ2 imgib2 example plugin](https://github.com/haesleinhuepf/clijx-incubator-imglib2)
-  * [CLIJ2 ImageJ exmaple plugin](https://github.com/haesleinhuepf/clijx-incubator-imagej1)
+  * [CLIJ2 imglib2 example plugin](https://github.com/haesleinhuepf/clijx-incubator-imglib2)
+  * [CLIJ2 ImageJ example plugin](https://github.com/haesleinhuepf/clijx-incubator-imagej1)
+  * [CLIJ2 ImageJ2 example plugin](https://github.com/haesleinhuepf/clijx-incubator-imagej2)
 
 
 ## Instant feedback
