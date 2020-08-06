@@ -50,6 +50,9 @@ It copies a given slice at position z in an image stack to a 2D image.
 * [Count Non Zero Voxels Sphere](https://clij.github.io/clij2-docs/reference_countNonZeroVoxels3DSphere)
 Counts non-zero voxels in a sphere around every voxel. 
 
+* [Crop](https://clij.github.io/clij2-docs/reference_crop3D)
+Crops a given sub-stack out of a given image stack. 
+
 * [Cylinder Transform](https://clij.github.io/clij2-docs/reference_cylinderTransform)
 Applies a cylinder transform to an image stack assuming the center line goes in Y direction in the center of the stack.
 
@@ -152,6 +155,9 @@ Masks a single label in a label map.
 
 * [Label Voronoi Octagon](https://clij.github.io/clij2-docs/reference_labelVoronoiOctagon)
 Takes a labelled image and dilates the labels using a octagon shape until they touch. 
+
+* [Labeling Workflow A L X](https://clij.github.io/clij2-docs/reference_labelingWorkflowALX)
+A segmentation workflow using maxima detection, thresholding, maximum filters and label edge detection.
 
 * [Laplace Sphere](https://clij.github.io/clij2-docs/reference_laplaceSphere)
 Applies the Laplace operator (Diamond neighborhood) to an image.
@@ -434,7 +440,7 @@ Takes a binary image and dilates the regions using a octagon shape until they to
 
 
 
-130 operations listed.
+132 operations listed.
 
 
 Back to [CLIJx-Incubator](https://clij.github.io/incubator)
