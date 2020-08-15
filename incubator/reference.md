@@ -56,8 +56,11 @@ Crops a given sub-stack out of a given image stack.
 * [Cylinder Transform](https://clij.github.io/clij2-docs/reference_cylinderTransform)
 Applies a cylinder transform to an image stack assuming the center line goes in Y direction in the center of the stack.
 
+* [Detect And Label Maxima Above Threshold](https://clij.github.io/clij2-docs/reference_detectAndLabelMaximaAboveThreshold)
+Determines maximum regions in a Gaussian blurred version of the original image and excludes found pixels below a given intensity in the blurred image.
+
 * [Detect And Label Maxima](https://clij.github.io/clij2-docs/reference_detectAndLabelMaxima)
-Determines maximum regions in a Gaussian blurred version of the oriignal image.
+Determines maximum regions in a Gaussian blurred version of the original image.
 
 * [Detect Label Edges](https://clij.github.io/clij2-docs/reference_detectLabelEdges)
 Takes a labelmap and returns an image where all pixels on label edges are set to 1 and all other pixels to 0.
@@ -67,6 +70,9 @@ Applies Gaussian blur to the input image twice with different sigma values resul
 
 * [Distance Map](https://clij.github.io/clij2-docs/reference_distanceMap)
 Generates a distance map from a binary image. 
+
+* [Divide By Gaussian Background](https://clij.github.io/clij2-docs/reference_divideByGaussianBackground)
+Applies Gaussian blur to the input image and divides the original by the result.
 
 * [Draw Distance Mesh Between Touching Labels](https://clij.github.io/clij2-docs/reference_drawDistanceMeshBetweenTouchingLabels)
 Starting from a label map, draw lines between touching neighbors resulting in a mesh.
@@ -122,6 +128,9 @@ Flips an image in X, Y and/or Z direction depending on boolean flags.
 
 * [Gaussian Blur](https://clij.github.io/clij2-docs/reference_gaussianBlur3D)
 Computes the Gaussian blurred image of an image given two sigma values in X, Y and Z. 
+
+* [Generate Grey Value Cooccurrence Matrix](https://clij.github.io/clij2-docs/reference_generateGreyValueCooccurrenceMatrixBox)
+Takes an image and an intensity range to determine a grey value co-occurrence matrix.
 
 * [Greater Constant](https://clij.github.io/clij2-docs/reference_greaterConstant)
 Determines if two images A and B greater pixel wise. 
@@ -440,7 +449,7 @@ Takes a binary image and dilates the regions using a octagon shape until they to
 
 
 
-132 operations listed.
+135 operations listed.
 
 
 Back to [CLIJx-Incubator](https://clij.github.io/incubator)

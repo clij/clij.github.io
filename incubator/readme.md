@@ -27,6 +27,7 @@ Do not use it for routine research yet. Planned release is early 2021. Stay tune
 * [Cell neighbor analysis](https://clij.github.io/incubator/neighbor_analysis_generated)
 
 * [Export workflows as ImageJ Script](https://clij.github.io/incubator/macro_export)
+* [Export workflows as Python script using clEsperanto and Napari](https://clij.github.io/incubator/te_oki_export)
 
 * Extensibility
   * [CLIJ2 Plugin template](https://github.com/clij/clij2-plugin-template)
