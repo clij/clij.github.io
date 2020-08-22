@@ -23,6 +23,9 @@ Applies a bilateral filter using a box neighborhood with sigma weights for space
 Determines pixels/voxels which are on the surface of binary objects and sets only them to 1 in the 
 destination image. All other pixels are set to 0.
 
+* [Binary Fill Holes Slice By Slice](https://clij.github.io/clij2-docs/reference_binaryFillHolesSliceBySlice)
+Fills holes (pixels with value 0 surrounded by pixels with value 1) in a binary image stack slice by slice.
+
 * [Binary Fill Holes](https://clij.github.io/clij2-docs/reference_binaryFillHoles)
 Fills holes (pixels with value 0 surrounded by pixels with value 1) in a binary image.
 
@@ -137,6 +140,9 @@ Determines if two images A and B greater pixel wise.
 
 * [Greater Or Equal Constant](https://clij.github.io/clij2-docs/reference_greaterOrEqualConstant)
 Determines if two images A and B greater or equal pixel wise. 
+
+* [Grey Level Atttribute Filtering](https://clij.github.io/clij2-docs/reference_greyLevelAtttributeFiltering)
+Todo.
 
 * [Intensity Correction Above Threshold Otsu](https://clij.github.io/clij2-docs/reference_intensityCorrectionAboveThresholdOtsu)
 Determines the mean intensity of all pixel the image stack which are above a determined Threshold (Otsu et al. 1979) and multiplies it with a factor so that the mean intensity becomes equal to a given value.
@@ -449,7 +455,7 @@ Takes a binary image and dilates the regions using a octagon shape until they to
 
 
 
-135 operations listed.
+137 operations listed.
 
 
 Back to [CLIJx-Incubator](https://clij.github.io/incubator)
