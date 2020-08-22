@@ -26,6 +26,8 @@ Do not use it for routine research yet. Planned release is early 2021. Stay tune
   * [Cell segmentation based on membranes](https://clij.github.io/incubator/segmentation_cells)
 * [Cell neighbor analysis](https://clij.github.io/incubator/neighbor_analysis_generated)
 
+* [Parameter optimization](https://clij.github.io/incubator/parameter_optimization)
+
 * [Export workflows as ImageJ Script](https://clij.github.io/incubator/macro_export)
 * [Export workflows as Python script using clEsperanto and Napari](https://clij.github.io/incubator/te_oki_export)
 
