@@ -1,4 +1,4 @@
-# Getting started CLIJx-incubating image processing workflows
+# Building image processing workflows
 Open your 3D+channel+time data set. Consider opening it as [virtual stacks](https://imagej.nih.gov/ij/docs/guide/146-8.html)
 if it's huge. Afterwards, activate CLIJx-Incubator by clicking on its tool icon.
 

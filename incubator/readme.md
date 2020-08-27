@@ -12,9 +12,11 @@ Stay tuned.
 
 
 ## Overview
-* [Installation](https://clij.github.io/incubator/installation)
-* [Getting started](https://clij.github.io/incubator/getting_started)
-* [Reference](https://clij.github.io/incubator/reference)
+* Introduction
+  * [Installation](https://clij.github.io/incubator/installation)
+  * [Building workflows](https://clij.github.io/incubator/getting_started)
+  * [Undo parameter changes](https://clij.github.io/incubator/undo)
+  * [Reference](https://clij.github.io/incubator/reference)
 
 * Filtering / correction
   * [Image filtering](https://clij.github.io/incubator/filtering)
