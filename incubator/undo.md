@@ -4,7 +4,7 @@ You can go back to former parameter settings by selecting the setting from the `
 
 ![Image](images/undo.png)
 
-<iframe src="images/undo.mp4" width="540" height="405"></iframe>
+<iframe src="images/undo.mp4" width="500" height="250"></iframe>
 [Download video](images/undo.mp4)
 
 Back to [CLIJx-Assistant](https://clij.github.io/incubator)
