@@ -29,10 +29,18 @@ CLIJ is based on
 
 **CLIJ2 is build on CLIJ. If you use it, please cite it:**
 
-Robert Haase, Loic Alain Royer, Peter Steinbach, Deborah Schmidt, 
+* Robert Haase, Loic Alain Royer, Peter Steinbach, Deborah Schmidt, 
 Alexandr Dibrov, Uwe Schmidt, Martin Weigert, Nicola Maghelli, Pavel Tomancak, 
 Florian Jug, Eugene W Myers. 
 *CLIJ: GPU-accelerated image processing for everyone*. [Nat Methods 17, 5-6 (2020) doi:10.1038/s41592-019-0650-1](https://doi.org/10.1038/s41592-019-0650-1)
+
+* Daniela Vorkel, Robert Haase. 
+*GPU-accelerating ImageJ Macro image processing workflows using CLIJ*.
+[arXiv preprint](https://arxiv.org/abs/2008.11799)
+
+* Robert Haase, Akanksha Jain, Stéphane Rigaud, Daniela Vorkel, Pradeep Rajasekhar, Theresa Suckert, Talley J. Lambert, Juan Nunez-Iglesias, Daniel P. Poole, Pavel Tomancak, Eugene W. Myers.
+*Interactive design of GPU-accelerated Image Data Flow Graphs and cross-platform deployment using multi-lingual code generation*.
+[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.11.19.386565v1)
 
 If you search for support, please open a thread on the [image.sc](https://image.sc) forum.
 
