@@ -38,7 +38,7 @@ Florian Jug, Eugene W Myers.
 *GPU-accelerating ImageJ Macro image processing workflows using CLIJ*.
 [arXiv preprint](https://arxiv.org/abs/2008.11799)
 
-* Robert Haase, Akanksha Jain, Stéphane Rigaud, Daniela Vorkel, Pradeep Rajasekhar, Theresa Suckert, Talley J. Lambert, Juan Nunez-Iglesias, Daniel P. Poole, Pavel Tomancak, Eugene W. Myers.
+* Robert Haase, Akanksha Jain, St&eacute;phane Rigaud, Daniela Vorkel, Pradeep Rajasekhar, Theresa Suckert, Talley J. Lambert, Juan Nunez-Iglesias, Daniel P. Poole, Pavel Tomancak, Eugene W. Myers.
 *Interactive design of GPU-accelerated Image Data Flow Graphs and cross-platform deployment using multi-lingual code generation*.
 [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.11.19.386565v1)
 
@@ -64,6 +64,7 @@ If you search for support, please open a thread on the [image.sc](https://image.
   * Future perspectives
     * [CLIJx-Assistant](https://clij.github.io/assistant)
     * [clEsperanto](http://clesperanto.net)
+    * [The big dictionary](https://clij.github.io/clij2-docs/dictionary_clesperanto)
   
 * Tutorials
   * [Basics](https://clij.github.io/clij2-docs/md/basics/)
@@ -97,6 +98,7 @@ If you search for support, please open a thread on the [image.sc](https://image.
     * [Pixel statistics on labelled images](https://clij.github.io/clij2-docs/md/measure_statistics/)
     * [Working with tables](https://clij.github.io/clij2-docs/md/tables/)
     * [Colocalisation measurements using Jaccard index and Sorensen/Dice coefficient](https://clij.github.io/clij2-docs/md/measure_overlap/)
+    * [Measuring presence of objects between channels](https://clij.github.io/clij2-docs/md/count_overlap_between_channels/)
 
   * Benchmarking
     * [Measure speedup](https://clij.github.io/clij2-docs/md/benchmarking/)
@@ -105,6 +107,8 @@ If you search for support, please open a thread on the [image.sc](https://image.
     * [Comparing image rotation ImageJ vs. CLIJ](https://clij.github.io/clij2-docs/md/rotate_comparison_IJ_CLIJ/)
 
 * Media (external resources)
+  * [I2K2020: Designing GPU-accelerated Image Data Flow Graphs for CLIJ2 and clEsperanto](https://www.youtube.com/watch?v=EYsfJ9W6gHw)
+  * [GPU-accelerated image processing for the life-sciences, guest lecture at Computer Science Faculty, TU Dresden](https://www.youtube.com/watch?v=_2yBn8MfP-I)
   * [How CLIJ2 can make your bio-image analysis workflows incredibly fast, FocalPlane](https://focalplane.biologists.com/2020/07/14/how-clij-can-make-your-image-analysis-incredibly-fast/)
   * [YouTube NEUBIAS Academy @home](https://youtu.be/uMj0OS1TiQE)
   * [NEUBIAS Symposium 2020, Invited talk, Bordeaux](https://git.mpi-cbg.de/rhaase/clij_neubias_2020)
@@ -167,6 +171,7 @@ Guillaume Witz (Bern University),
 Giovanni Cardone (MPI Biochem),
 Jan Brocher (Biovoxxel), 
 Jean-Yves Tinevez (Institute Pasteur),
+Jim Rowe (University of Cambridge),
 Johannes Girstmair (MPI CBG),
 Juergen Gluch (Fraunhofer IKTS),
 Kota Miura,
