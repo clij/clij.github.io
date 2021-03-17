@@ -79,11 +79,13 @@ If you search for support, please open a thread on the [image.sc](https://image.
     * [Warp images](https://clij.github.io/clij2-docs/md/applyVectorFieldMD/)
     * [Drosophila embryo cell counting](https://clij.github.io/clij2-docs/md/drosophila_max_cylinder_projection/)
 
-  * Segmentation and labelling
+  * Spot detection, segmentation and labelling
+    * [Spot detection](https://clij.github.io/clij2-docs/md/spot_detection/)
     * [Labeling](https://clij.github.io/clij2-docs/md/labeling/)
     * [3D Image Segmentation](https://clij.github.io/clij2-docs/md/image_segmentation_3d/)
     * [Binary images](https://clij.github.io/clij2-docs/md/binary_processing/)
     * [Working with regions of interest (ROIs)](https://clij.github.io/clij2-docs/md/working_with_rois/)
+    * [Adding label outlines and numbers as overlay](https://clij.github.io/clij2-docs/md/outlines_numbers_overlay/)  
     * [Voronoi diagrams](https://clij.github.io/clij2-docs/md/voronoi/)
     * [Label maps and voronoi diagrams](https://clij.github.io/clij2-docs/md/labelmap_voronoi)
     * [Custom clij functions for image segmentation](https://clij.github.io/clij2-docs/md/custom_clij_macro_functions/)
